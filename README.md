@@ -1,4 +1,4 @@
-![alt text](https://github.com/Afflicti/Afflicti/blob/master/kimi-no-na-wa-nnceabbwfa0ul4gx.jpg)
+<!-- ![alt text](https://github.com/Afflicti/Afflicti/blob/master/kimi-no-na-wa-nnceabbwfa0ul4gx.jpg) -->
 
 ## Hi there 👋
 
