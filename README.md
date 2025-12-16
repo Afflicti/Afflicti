@@ -3,3 +3,5 @@
 ## Hi there 👋
 
 Young. Driven. Decent basketball player, still can't do left-hand layup though... 
+
+Sometimes I code, sometimes I teach other people how to code.
